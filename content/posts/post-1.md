@@ -9,6 +9,8 @@ tags: ["Ohio", "Weird"]
 draft: false
 ---
 
+## Summary
+
 A hiker in Ohio stumbled upon a Phoenix bird, a mythical creature not seen in the wild for hundreds of years. The hiker reported it to authorities, who captured it and brought it to a wildlife sanctuary for study and protection. The discovery has sparked excitement among experts and increased tourism in the area. The Ohio Department of Natural Resources is increasing patrols to protect the bird and its habitat.
 
 ## Phoenix in Ohio
