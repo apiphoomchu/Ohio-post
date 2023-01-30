@@ -2,12 +2,13 @@
 title: "Aliens visit earth"
 description: "meta description"
 date: 2023-01-30T05:00:00Z
-image: "/images/posts/01.jpg"
+image: "/images/posts/02.jpg"
 categories: ["Ohio"]
 authors: ["Apiphoom Chuenchompoo"]
 tags: ["Ohio", "Weird"]
 draft: false
 ---
+- Danit/Wiphu Reporter
 
 ## Summary
 
