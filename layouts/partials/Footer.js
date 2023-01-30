@@ -21,7 +21,6 @@ const Footer = () => {
           ))}
         </ul>
         {/* social icons */}
-        <Social source={social} className="social-icons mb-8" />
         {/* copyright */}
         {markdownify(copyright, "p", "text-light")}
       </div>
